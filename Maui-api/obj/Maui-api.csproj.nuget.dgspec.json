@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Bassie\\Source\\Repos\\maui-api\\Maui-api\\Maui-api.csproj": {}
+    "C:\\Users\\Bassie\\source\\repos\\maui-api\\Maui-api\\Maui-api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Bassie\\Source\\Repos\\maui-api\\Maui-api\\Maui-api.csproj": {
+    "C:\\Users\\Bassie\\source\\repos\\maui-api\\Maui-api\\Maui-api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Bassie\\Source\\Repos\\maui-api\\Maui-api\\Maui-api.csproj",
+        "projectUniqueName": "C:\\Users\\Bassie\\source\\repos\\maui-api\\Maui-api\\Maui-api.csproj",
         "projectName": "Maui-api",
-        "projectPath": "C:\\Users\\Bassie\\Source\\Repos\\maui-api\\Maui-api\\Maui-api.csproj",
+        "projectPath": "C:\\Users\\Bassie\\source\\repos\\maui-api\\Maui-api\\Maui-api.csproj",
         "packagesPath": "C:\\Users\\Bassie\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Bassie\\Source\\Repos\\maui-api\\Maui-api\\obj\\",
+        "outputPath": "C:\\Users\\Bassie\\source\\repos\\maui-api\\Maui-api\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [
